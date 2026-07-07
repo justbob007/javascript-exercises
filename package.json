@@ -34,5 +34,8 @@
     "testPathIgnorePatterns": [
       "<rootDir>/archive/"
     ]
+  },
+  "dependencies": {
+    "jav": "^2.0.0"
   }
 }
